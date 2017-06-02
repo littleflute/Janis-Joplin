@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Raise Your Hand [_][Live].mp3";		
+f[2]	= "02 As Good As You've Been To This World [_][Live].mp3";		
+f[3]	= "03 To Love Somebody [Live].mp3";		
+f[4]	= "04 Summertime [Live].mp3";		
+f[5]	= "05 Try (Just A Little Bit Harder) [Live].mp3";		
+f[6]	= "06 Kozmic Blues [Live].mp3";		
+f[7]	= "07 Can't Turn Your Love Loose [_][Live].mp3";		
+f[8]	= "08 Work Me, Lord [Live].mp3";		
+f[9]	= "09 Piece of My Heart [Live].mp3";		
+f[10]	= "10 Ball & Chain [Live].mp3";		
